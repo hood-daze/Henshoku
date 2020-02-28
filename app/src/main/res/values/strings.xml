@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">変色していく子</string>
+
+    <string name="text_caution">注意\n本編で身体に関する表現がありますが、人種差別を助長するものではありません。</string>
+
+    <string name="credit_content">テクスチャ:エドワード・ゴーリー\n\n『ノベルゲーム:変色していく子』Produce by hood</string>
+    <string name="text_title">変色していく子</string>
+
+    <string name="preference_file_key">com.ne.hood.henshoku</string>
+    <string name="text_endroll">『変色する子ども』最後まで遊んでいただきありがとうございました。</string>
+
+</resources>
